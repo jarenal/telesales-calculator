@@ -79,7 +79,7 @@ NOTICE: Always will start from the next month from the given date. So the above 
 If you want run the test, you can use the next command:
 
 ```bash
-		$ pphpunit --bootstrap vendor/autoload.php src/Jarenal/Tests
+		$ phpunit --bootstrap vendor/autoload.php src/Jarenal/Tests
 ```
 
 NOTE: Before run the tests you will need install:
